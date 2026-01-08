@@ -25,3 +25,9 @@ This is a learning and portfolio project created to:
 4) Showcase no-code/low-code application skills
 
 "Furora" reflects my journey of learning Power Apps by building something meaningful and practical.
+
+App Preview:
+
+~ [Home Screen](screenshots/Screenshot(596).png)
+~ [Filter Screen](screenshots/Screenshot(598).png)
+
