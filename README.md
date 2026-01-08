@@ -28,6 +28,6 @@ This is a learning and portfolio project created to:
 
 App Preview:
 
-~ [Home Screen](Screenshot (596).png)
-~ [Filter Screen](screenshots/Screenshot(596).png)
+~ [Home Screen](screenshots/Screenshot(596).png)
+~ [Filter Screen](screenshots/Screenshot(598).png)
 
